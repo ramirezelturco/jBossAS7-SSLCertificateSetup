@@ -1,7 +1,7 @@
 jBossAS7SSLSetup
 ================
 
-jBoss AS7 SSL Certificate Install and Configuration
+jBoss AS7 SSL Certificate Installation and Configuration
 
 
 jBoss AS 7 Server' a SSL sertifikası yüklemek için izlenecek yol. Türkçe kaynak eksikliğini gidermesi için buraya ekliyorum. 
