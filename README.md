@@ -1,11 +1,10 @@
 jBossAS7SSLSetup
 ================
 
-jBoss AS7 SSL Crtificate Setup and Configure
+jBoss AS7 SSL Certificate Install and Configuration
 
 
-
-jBoss AS 7 Server' a SSL sertifikası Yüklemek İçin İzlenecek yol.
+jBoss AS 7 Server' a SSL sertifikası yüklemek için izlenecek yol. Türkçe kaynak eksikliğini gidermesi için buraya ekliyorum. 
 
 
 1-	Başlat/Çalıştır/cmd.exe ( administrator olarak çalıştır. )
@@ -100,6 +99,7 @@ jBoss AS 7 Server' a SSL sertifikası Yüklemek İçin İzlenecek yol.
 			Sertifikaların yüklenmesi tamamlandı.
 		
 7-	JBoss AS7 Configurations : Oluşturulan keystore dosyasına yüklenmiş sertifikayı kullanabilmek için; bu adımda jBoss ' ta aşağıdaki gibi bazı ayarların yapılması gerekiyor.
+	
 	a-	Standalone.xml : Connector'ü düzenle.
 	
 		<subsystem xmlns="urn:jboss:domain:web:1.1" default-virtual-server="default-host" native="false">
